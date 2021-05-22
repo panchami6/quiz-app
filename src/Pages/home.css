@@ -1,0 +1,15 @@
+.quizChoices {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  margin-top: 1rem;
+}
+.choice {
+  border: 1px solid CE8ED9;
+  width: 250px;
+  height: 200px;
+  padding: 1rem;
+  box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.2);
+}
